@@ -1,0 +1,2 @@
+# craw_translate
+爬取英文文档网页并使用chatgpt或者API进行翻译
